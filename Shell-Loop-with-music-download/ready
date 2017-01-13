@@ -1,0 +1,13 @@
+SCENARIO-I
+#http://www.talkenglish.com/AudioTE1/E20/sentence/E009S10.mp3
+E001S10.mp3 100%[===================>] 15,00K 65,1KB/s in 0,2s
+2016-05-26 23:27:05 (65,1 KB/s) - ‘E001S10.mp3’ saved [15360/15360]
+
+#but there is a problem here-->
+http://www.talkenglish.com/AudioTE1/E20/sentence/E0010S10.mp3--&gt; NOT FOUND
+http://www.talkenglish.com/AudioTE1/E20/sentence/E0010S11.mp3--&gt; NOT FOUND
+...
+http://www.talkenglish.com/AudioTE1/E90/sentence/E0090S19.mp3--&gt; NOT FOUND
+
+SCENARIO-II
+SOON..
